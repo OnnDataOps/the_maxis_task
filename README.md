@@ -10,3 +10,7 @@ Package required for the program:
 
 Main programming language:
 1. python 3.7
+
+Tool used:
+1. jupyter notebook
+2. google cloud platform (GCP)
