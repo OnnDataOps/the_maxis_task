@@ -1,5 +1,5 @@
 # the_maxis_task
-Data Pipeline from url to Google Cloud Storage and BigQuery
+Create Data Pipeline from url to Google Cloud Storage and BigQuery
 
 Package required for the program:
 1. google-cloud-bigquery
@@ -10,4 +10,3 @@ Package required for the program:
 
 Main programming language:
 1. python 3.7
-
